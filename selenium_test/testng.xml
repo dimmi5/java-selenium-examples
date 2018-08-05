@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial" parallel="methods" thread-count="2">
+ <test name="testngTest">
+ <classes>
+ <class name="NewTestNGTest" />
+ </classes>
+ </test>
+</suite>
